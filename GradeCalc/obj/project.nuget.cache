@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lZM7W6vuWOx0suSSTfwubSoZOCtv3lJKgAqqpcXN9WSY9kVm38wG4O8TLkzAxeRQDOAvuFnvb3hfk7AiiM3eQg==",
+  "success": true,
+  "projectFilePath": "/home/lego44/Code/dotNet/GradeCalc/GradeCalc.csproj",
+  "expectedPackageFiles": [
+    "/home/lego44/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

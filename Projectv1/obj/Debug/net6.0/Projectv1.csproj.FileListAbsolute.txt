@@ -1,0 +1,15 @@
+/home/lego44/Code/dotNet/Projectv1/bin/Debug/net6.0/Projectv1
+/home/lego44/Code/dotNet/Projectv1/bin/Debug/net6.0/Projectv1.deps.json
+/home/lego44/Code/dotNet/Projectv1/bin/Debug/net6.0/Projectv1.runtimeconfig.json
+/home/lego44/Code/dotNet/Projectv1/bin/Debug/net6.0/Projectv1.dll
+/home/lego44/Code/dotNet/Projectv1/bin/Debug/net6.0/ref/Projectv1.dll
+/home/lego44/Code/dotNet/Projectv1/bin/Debug/net6.0/Projectv1.pdb
+/home/lego44/Code/dotNet/Projectv1/obj/Debug/net6.0/Projectv1.csproj.AssemblyReference.cache
+/home/lego44/Code/dotNet/Projectv1/obj/Debug/net6.0/Projectv1.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/dotNet/Projectv1/obj/Debug/net6.0/Projectv1.AssemblyInfoInputs.cache
+/home/lego44/Code/dotNet/Projectv1/obj/Debug/net6.0/Projectv1.AssemblyInfo.cs
+/home/lego44/Code/dotNet/Projectv1/obj/Debug/net6.0/Projectv1.csproj.CoreCompileInputs.cache
+/home/lego44/Code/dotNet/Projectv1/obj/Debug/net6.0/Projectv1.dll
+/home/lego44/Code/dotNet/Projectv1/obj/Debug/net6.0/ref/Projectv1.dll
+/home/lego44/Code/dotNet/Projectv1/obj/Debug/net6.0/Projectv1.pdb
+/home/lego44/Code/dotNet/Projectv1/obj/Debug/net6.0/Projectv1.genruntimeconfig.cache

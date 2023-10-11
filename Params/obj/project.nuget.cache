@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vbvL2Yy45h9ekbnfMPUAbbdYW1evkuBC0hpdx+S5XrRnL1IJo8A4nMxOWLQyPAPTpml/V+1OgokzWEZEBbNFhw==",
+  "success": true,
+  "projectFilePath": "/home/lego44/Code/dotNet/Params/Params.csproj",
+  "expectedPackageFiles": [
+    "/home/lego44/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

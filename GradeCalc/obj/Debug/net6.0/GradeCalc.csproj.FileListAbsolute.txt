@@ -1,0 +1,15 @@
+/home/lego44/Code/dotNet/GradeCalc/bin/Debug/net6.0/GradeCalc
+/home/lego44/Code/dotNet/GradeCalc/bin/Debug/net6.0/GradeCalc.deps.json
+/home/lego44/Code/dotNet/GradeCalc/bin/Debug/net6.0/GradeCalc.runtimeconfig.json
+/home/lego44/Code/dotNet/GradeCalc/bin/Debug/net6.0/GradeCalc.dll
+/home/lego44/Code/dotNet/GradeCalc/bin/Debug/net6.0/ref/GradeCalc.dll
+/home/lego44/Code/dotNet/GradeCalc/bin/Debug/net6.0/GradeCalc.pdb
+/home/lego44/Code/dotNet/GradeCalc/obj/Debug/net6.0/GradeCalc.csproj.AssemblyReference.cache
+/home/lego44/Code/dotNet/GradeCalc/obj/Debug/net6.0/GradeCalc.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/dotNet/GradeCalc/obj/Debug/net6.0/GradeCalc.AssemblyInfoInputs.cache
+/home/lego44/Code/dotNet/GradeCalc/obj/Debug/net6.0/GradeCalc.AssemblyInfo.cs
+/home/lego44/Code/dotNet/GradeCalc/obj/Debug/net6.0/GradeCalc.csproj.CoreCompileInputs.cache
+/home/lego44/Code/dotNet/GradeCalc/obj/Debug/net6.0/GradeCalc.dll
+/home/lego44/Code/dotNet/GradeCalc/obj/Debug/net6.0/ref/GradeCalc.dll
+/home/lego44/Code/dotNet/GradeCalc/obj/Debug/net6.0/GradeCalc.pdb
+/home/lego44/Code/dotNet/GradeCalc/obj/Debug/net6.0/GradeCalc.genruntimeconfig.cache
