@@ -1,0 +1,15 @@
+/home/lego44/Code/dotNetMain/Polymorphism/bin/Debug/net6.0/Polymorphism
+/home/lego44/Code/dotNetMain/Polymorphism/bin/Debug/net6.0/Polymorphism.deps.json
+/home/lego44/Code/dotNetMain/Polymorphism/bin/Debug/net6.0/Polymorphism.runtimeconfig.json
+/home/lego44/Code/dotNetMain/Polymorphism/bin/Debug/net6.0/Polymorphism.dll
+/home/lego44/Code/dotNetMain/Polymorphism/bin/Debug/net6.0/ref/Polymorphism.dll
+/home/lego44/Code/dotNetMain/Polymorphism/bin/Debug/net6.0/Polymorphism.pdb
+/home/lego44/Code/dotNetMain/Polymorphism/obj/Debug/net6.0/Polymorphism.csproj.AssemblyReference.cache
+/home/lego44/Code/dotNetMain/Polymorphism/obj/Debug/net6.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/dotNetMain/Polymorphism/obj/Debug/net6.0/Polymorphism.AssemblyInfoInputs.cache
+/home/lego44/Code/dotNetMain/Polymorphism/obj/Debug/net6.0/Polymorphism.AssemblyInfo.cs
+/home/lego44/Code/dotNetMain/Polymorphism/obj/Debug/net6.0/Polymorphism.csproj.CoreCompileInputs.cache
+/home/lego44/Code/dotNetMain/Polymorphism/obj/Debug/net6.0/Polymorphism.dll
+/home/lego44/Code/dotNetMain/Polymorphism/obj/Debug/net6.0/ref/Polymorphism.dll
+/home/lego44/Code/dotNetMain/Polymorphism/obj/Debug/net6.0/Polymorphism.pdb
+/home/lego44/Code/dotNetMain/Polymorphism/obj/Debug/net6.0/Polymorphism.genruntimeconfig.cache

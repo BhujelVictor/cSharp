@@ -1,0 +1,15 @@
+/home/lego44/Code/dotNetMain/Interface/bin/Debug/net6.0/Interface
+/home/lego44/Code/dotNetMain/Interface/bin/Debug/net6.0/Interface.deps.json
+/home/lego44/Code/dotNetMain/Interface/bin/Debug/net6.0/Interface.runtimeconfig.json
+/home/lego44/Code/dotNetMain/Interface/bin/Debug/net6.0/Interface.dll
+/home/lego44/Code/dotNetMain/Interface/bin/Debug/net6.0/ref/Interface.dll
+/home/lego44/Code/dotNetMain/Interface/bin/Debug/net6.0/Interface.pdb
+/home/lego44/Code/dotNetMain/Interface/obj/Debug/net6.0/Interface.csproj.AssemblyReference.cache
+/home/lego44/Code/dotNetMain/Interface/obj/Debug/net6.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/dotNetMain/Interface/obj/Debug/net6.0/Interface.AssemblyInfoInputs.cache
+/home/lego44/Code/dotNetMain/Interface/obj/Debug/net6.0/Interface.AssemblyInfo.cs
+/home/lego44/Code/dotNetMain/Interface/obj/Debug/net6.0/Interface.csproj.CoreCompileInputs.cache
+/home/lego44/Code/dotNetMain/Interface/obj/Debug/net6.0/Interface.dll
+/home/lego44/Code/dotNetMain/Interface/obj/Debug/net6.0/ref/Interface.dll
+/home/lego44/Code/dotNetMain/Interface/obj/Debug/net6.0/Interface.pdb
+/home/lego44/Code/dotNetMain/Interface/obj/Debug/net6.0/Interface.genruntimeconfig.cache

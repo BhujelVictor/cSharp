@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JkOWtZ8cQopNtZXsee1MyLsmZ2Tbrt/uAy+jjEeFm7ZZSc2atgaIT4+Fqeef/8QNSHns9rnohLEZGW6GBtMTMg==",
+  "success": true,
+  "projectFilePath": "/home/lego44/Code/dotNetMain/Polymorphism/Polymorphism.csproj",
+  "expectedPackageFiles": [
+    "/home/lego44/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

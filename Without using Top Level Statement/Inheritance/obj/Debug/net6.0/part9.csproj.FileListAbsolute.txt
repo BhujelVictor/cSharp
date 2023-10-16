@@ -1,0 +1,38 @@
+/home/lego44/Code/dotNetMain/part9/bin/Debug/net6.0/part9
+/home/lego44/Code/dotNetMain/part9/bin/Debug/net6.0/part9.deps.json
+/home/lego44/Code/dotNetMain/part9/bin/Debug/net6.0/part9.runtimeconfig.json
+/home/lego44/Code/dotNetMain/part9/bin/Debug/net6.0/part9.dll
+/home/lego44/Code/dotNetMain/part9/bin/Debug/net6.0/ref/part9.dll
+/home/lego44/Code/dotNetMain/part9/bin/Debug/net6.0/part9.pdb
+/home/lego44/Code/dotNetMain/part9/obj/Debug/net6.0/part9.csproj.AssemblyReference.cache
+/home/lego44/Code/dotNetMain/part9/obj/Debug/net6.0/part9.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/dotNetMain/part9/obj/Debug/net6.0/part9.AssemblyInfoInputs.cache
+/home/lego44/Code/dotNetMain/part9/obj/Debug/net6.0/part9.AssemblyInfo.cs
+/home/lego44/Code/dotNetMain/part9/obj/Debug/net6.0/part9.csproj.CoreCompileInputs.cache
+/home/lego44/Code/dotNetMain/part9/obj/Debug/net6.0/part9.dll
+/home/lego44/Code/dotNetMain/part9/obj/Debug/net6.0/ref/part9.dll
+/home/lego44/Code/dotNetMain/part9/obj/Debug/net6.0/part9.pdb
+/home/lego44/Code/dotNetMain/part9/obj/Debug/net6.0/part9.genruntimeconfig.cache
+/home/lego44/Code/dotNetMain/Inheritance and Overriding Method/bin/Debug/net6.0/part9
+/home/lego44/Code/dotNetMain/Inheritance and Overriding Method/bin/Debug/net6.0/part9.deps.json
+/home/lego44/Code/dotNetMain/Inheritance and Overriding Method/bin/Debug/net6.0/part9.runtimeconfig.json
+/home/lego44/Code/dotNetMain/Inheritance and Overriding Method/bin/Debug/net6.0/part9.dll
+/home/lego44/Code/dotNetMain/Inheritance and Overriding Method/bin/Debug/net6.0/ref/part9.dll
+/home/lego44/Code/dotNetMain/Inheritance and Overriding Method/bin/Debug/net6.0/part9.pdb
+/home/lego44/Code/dotNetMain/Inheritance and Overriding Method/obj/Debug/net6.0/part9.csproj.AssemblyReference.cache
+/home/lego44/Code/dotNetMain/Inheritance and Overriding Method/obj/Debug/net6.0/part9.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/dotNetMain/Inheritance and Overriding Method/obj/Debug/net6.0/part9.AssemblyInfoInputs.cache
+/home/lego44/Code/dotNetMain/Inheritance and Overriding Method/obj/Debug/net6.0/part9.AssemblyInfo.cs
+/home/lego44/Code/dotNetMain/Inheritance and Overriding Method/obj/Debug/net6.0/part9.csproj.CoreCompileInputs.cache
+/home/lego44/Code/dotNetMain/Inheritance and Overriding Method/obj/Debug/net6.0/part9.dll
+/home/lego44/Code/dotNetMain/Inheritance and Overriding Method/obj/Debug/net6.0/ref/part9.dll
+/home/lego44/Code/dotNetMain/Inheritance and Overriding Method/obj/Debug/net6.0/part9.pdb
+/home/lego44/Code/dotNetMain/Inheritance and Overriding Method/obj/Debug/net6.0/part9.genruntimeconfig.cache
+/home/lego44/Code/dotNetMain/Inheritance/obj/Debug/net6.0/part9.csproj.AssemblyReference.cache
+/home/lego44/Code/dotNetMain/Inheritance/obj/Debug/net6.0/part9.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/dotNetMain/Inheritance/obj/Debug/net6.0/part9.AssemblyInfoInputs.cache
+/home/lego44/Code/dotNetMain/Inheritance/obj/Debug/net6.0/part9.AssemblyInfo.cs
+/home/lego44/Code/dotNetMain/Inheritance/obj/Debug/net6.0/part9.csproj.CoreCompileInputs.cache
+/home/lego44/Code/dotNetMain/Inheritance/obj/Debug/net6.0/part9.dll
+/home/lego44/Code/dotNetMain/Inheritance/obj/Debug/net6.0/ref/part9.dll
+/home/lego44/Code/dotNetMain/Inheritance/obj/Debug/net6.0/part9.pdb

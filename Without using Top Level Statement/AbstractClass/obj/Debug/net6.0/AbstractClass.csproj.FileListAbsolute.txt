@@ -1,0 +1,15 @@
+/home/lego44/Code/dotNetMain/AbstractClass/bin/Debug/net6.0/AbstractClass
+/home/lego44/Code/dotNetMain/AbstractClass/bin/Debug/net6.0/AbstractClass.deps.json
+/home/lego44/Code/dotNetMain/AbstractClass/bin/Debug/net6.0/AbstractClass.runtimeconfig.json
+/home/lego44/Code/dotNetMain/AbstractClass/bin/Debug/net6.0/AbstractClass.dll
+/home/lego44/Code/dotNetMain/AbstractClass/bin/Debug/net6.0/ref/AbstractClass.dll
+/home/lego44/Code/dotNetMain/AbstractClass/bin/Debug/net6.0/AbstractClass.pdb
+/home/lego44/Code/dotNetMain/AbstractClass/obj/Debug/net6.0/AbstractClass.csproj.AssemblyReference.cache
+/home/lego44/Code/dotNetMain/AbstractClass/obj/Debug/net6.0/AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/dotNetMain/AbstractClass/obj/Debug/net6.0/AbstractClass.AssemblyInfoInputs.cache
+/home/lego44/Code/dotNetMain/AbstractClass/obj/Debug/net6.0/AbstractClass.AssemblyInfo.cs
+/home/lego44/Code/dotNetMain/AbstractClass/obj/Debug/net6.0/AbstractClass.csproj.CoreCompileInputs.cache
+/home/lego44/Code/dotNetMain/AbstractClass/obj/Debug/net6.0/AbstractClass.dll
+/home/lego44/Code/dotNetMain/AbstractClass/obj/Debug/net6.0/ref/AbstractClass.dll
+/home/lego44/Code/dotNetMain/AbstractClass/obj/Debug/net6.0/AbstractClass.pdb
+/home/lego44/Code/dotNetMain/AbstractClass/obj/Debug/net6.0/AbstractClass.genruntimeconfig.cache
