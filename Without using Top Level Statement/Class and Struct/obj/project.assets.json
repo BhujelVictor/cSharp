@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lego44/Code/dotNetMain/part8/part8.csproj",
+      "projectUniqueName": "/home/lego44/Code/dotNetMain/Class and Struct/part8.csproj",
       "projectName": "part8",
-      "projectPath": "/home/lego44/Code/dotNetMain/part8/part8.csproj",
+      "projectPath": "/home/lego44/Code/dotNetMain/Class and Struct/part8.csproj",
       "packagesPath": "/home/lego44/.nuget/packages/",
-      "outputPath": "/home/lego44/Code/dotNetMain/part8/obj/",
+      "outputPath": "/home/lego44/Code/dotNetMain/Class and Struct/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/lego44/.nuget/NuGet/NuGet.Config"

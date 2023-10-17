@@ -42,17 +42,17 @@ class Box
     {
         return length * breadth * height;
     }
-    public void SetLength(double len)
+    public void SetLength(double l)
     {
-        length = len;
+        length = l;
     }
-    public void SetBreadth(double bre)
+    public void SetBreadth(double b)
     {
-        breadth = bre;
+        breadth = b;
     }
-    public void SetHeight(double hei)
+    public void SetHeight(double h)
     {
-        height = hei;
+        height = h;
     }
 
     // Overload + operator to add two Box objects.

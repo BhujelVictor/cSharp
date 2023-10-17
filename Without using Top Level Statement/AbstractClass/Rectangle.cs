@@ -4,8 +4,8 @@ namespace part10
 {
     class Rectangle :Shape
     {
-        public double Length { get; set; }
-        public double Breadth { get; set; }
+        public double Length;
+        public double Breadth;
 
         public Rectangle(double length, double breadth)
         {

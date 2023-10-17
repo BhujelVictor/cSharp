@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RIoNKj9daiMw3D8WsrxhgU7w+Wt5TL4iIDHt4u6SVNZOB4M4YtgZrgwBaBFbEfsKSaPic9deV4mRoAbbwiNO5Q==",
+  "dgSpecHash": "HXoNeGW62F6ilX0+Y879le7cXckB4iQA/9qpeYLjAR+yqjdlfooILw7Znx2rbhNyNVdd8sIF6+bR6aeGJrT1Sw==",
   "success": true,
-  "projectFilePath": "/home/lego44/Code/dotNetMain/part8/part8.csproj",
+  "projectFilePath": "/home/lego44/Code/dotNetMain/Class and Struct/part8.csproj",
   "expectedPackageFiles": [
     "/home/lego44/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
   ],

@@ -4,7 +4,7 @@ namespace part10
 {
     class Circle :Shape
     {
-        public double Radius { get; set; }
+        public double Radius;
 
         public Circle(double radius)
         {

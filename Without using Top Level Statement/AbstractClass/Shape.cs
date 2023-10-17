@@ -4,7 +4,7 @@ namespace part10
 {
     abstract class Shape // cannot instanciate abstract class
     {
-        public string Name { get; set; }
+        public string? Name { get; set; }
         
         public virtual void GetInfo()
         {

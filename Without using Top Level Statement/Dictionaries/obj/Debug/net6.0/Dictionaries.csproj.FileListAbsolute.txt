@@ -1,0 +1,15 @@
+/home/lego44/Code/dotNetMain/Dictionaries/bin/Debug/net6.0/Dictionaries
+/home/lego44/Code/dotNetMain/Dictionaries/bin/Debug/net6.0/Dictionaries.deps.json
+/home/lego44/Code/dotNetMain/Dictionaries/bin/Debug/net6.0/Dictionaries.runtimeconfig.json
+/home/lego44/Code/dotNetMain/Dictionaries/bin/Debug/net6.0/Dictionaries.dll
+/home/lego44/Code/dotNetMain/Dictionaries/bin/Debug/net6.0/ref/Dictionaries.dll
+/home/lego44/Code/dotNetMain/Dictionaries/bin/Debug/net6.0/Dictionaries.pdb
+/home/lego44/Code/dotNetMain/Dictionaries/obj/Debug/net6.0/Dictionaries.csproj.AssemblyReference.cache
+/home/lego44/Code/dotNetMain/Dictionaries/obj/Debug/net6.0/Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/dotNetMain/Dictionaries/obj/Debug/net6.0/Dictionaries.AssemblyInfoInputs.cache
+/home/lego44/Code/dotNetMain/Dictionaries/obj/Debug/net6.0/Dictionaries.AssemblyInfo.cs
+/home/lego44/Code/dotNetMain/Dictionaries/obj/Debug/net6.0/Dictionaries.csproj.CoreCompileInputs.cache
+/home/lego44/Code/dotNetMain/Dictionaries/obj/Debug/net6.0/Dictionaries.dll
+/home/lego44/Code/dotNetMain/Dictionaries/obj/Debug/net6.0/ref/Dictionaries.dll
+/home/lego44/Code/dotNetMain/Dictionaries/obj/Debug/net6.0/Dictionaries.pdb
+/home/lego44/Code/dotNetMain/Dictionaries/obj/Debug/net6.0/Dictionaries.genruntimeconfig.cache

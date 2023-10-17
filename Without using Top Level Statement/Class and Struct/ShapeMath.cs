@@ -19,7 +19,7 @@ namespace part7
 
             else if (String.Equals("Circle", shape, StringComparison.OrdinalIgnoreCase))
             {
-                return 3.14159 * Math.Pow(length1, 2);
+                return Math.PI * Math.Pow(length1, 2);
             }
 
             return -1;

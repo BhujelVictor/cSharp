@@ -1,0 +1,15 @@
+/home/lego44/Code/dotNetMain/Generics/obj/Debug/net6.0/Generic.csproj.AssemblyReference.cache
+/home/lego44/Code/dotNetMain/Generics/obj/Debug/net6.0/Generic.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/dotNetMain/Generics/obj/Debug/net6.0/Generic.AssemblyInfoInputs.cache
+/home/lego44/Code/dotNetMain/Generics/obj/Debug/net6.0/Generic.AssemblyInfo.cs
+/home/lego44/Code/dotNetMain/Generics/obj/Debug/net6.0/Generic.csproj.CoreCompileInputs.cache
+/home/lego44/Code/dotNetMain/Generics/bin/Debug/net6.0/Generic
+/home/lego44/Code/dotNetMain/Generics/bin/Debug/net6.0/Generic.deps.json
+/home/lego44/Code/dotNetMain/Generics/bin/Debug/net6.0/Generic.runtimeconfig.json
+/home/lego44/Code/dotNetMain/Generics/bin/Debug/net6.0/Generic.dll
+/home/lego44/Code/dotNetMain/Generics/bin/Debug/net6.0/ref/Generic.dll
+/home/lego44/Code/dotNetMain/Generics/bin/Debug/net6.0/Generic.pdb
+/home/lego44/Code/dotNetMain/Generics/obj/Debug/net6.0/Generic.dll
+/home/lego44/Code/dotNetMain/Generics/obj/Debug/net6.0/ref/Generic.dll
+/home/lego44/Code/dotNetMain/Generics/obj/Debug/net6.0/Generic.pdb
+/home/lego44/Code/dotNetMain/Generics/obj/Debug/net6.0/Generic.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/lego44/Code/dotNetMain/Queues/bin/Debug/net6.0/Queues
+/home/lego44/Code/dotNetMain/Queues/bin/Debug/net6.0/Queues.deps.json
+/home/lego44/Code/dotNetMain/Queues/bin/Debug/net6.0/Queues.runtimeconfig.json
+/home/lego44/Code/dotNetMain/Queues/bin/Debug/net6.0/Queues.dll
+/home/lego44/Code/dotNetMain/Queues/bin/Debug/net6.0/ref/Queues.dll
+/home/lego44/Code/dotNetMain/Queues/bin/Debug/net6.0/Queues.pdb
+/home/lego44/Code/dotNetMain/Queues/obj/Debug/net6.0/Queues.csproj.AssemblyReference.cache
+/home/lego44/Code/dotNetMain/Queues/obj/Debug/net6.0/Queues.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/dotNetMain/Queues/obj/Debug/net6.0/Queues.AssemblyInfoInputs.cache
+/home/lego44/Code/dotNetMain/Queues/obj/Debug/net6.0/Queues.AssemblyInfo.cs
+/home/lego44/Code/dotNetMain/Queues/obj/Debug/net6.0/Queues.csproj.CoreCompileInputs.cache
+/home/lego44/Code/dotNetMain/Queues/obj/Debug/net6.0/Queues.dll
+/home/lego44/Code/dotNetMain/Queues/obj/Debug/net6.0/ref/Queues.dll
+/home/lego44/Code/dotNetMain/Queues/obj/Debug/net6.0/Queues.pdb
+/home/lego44/Code/dotNetMain/Queues/obj/Debug/net6.0/Queues.genruntimeconfig.cache

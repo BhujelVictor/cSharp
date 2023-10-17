@@ -17,9 +17,8 @@ namespace part10
 
                 Console.WriteLine($"Area of {s.Name} : {s.Area():f}");
 
-                Circle testCirc = s as Circle;
 
-                if (testCirc == null)
+                if (s is not Circle)
                 {
                     Console.WriteLine("This isn't a Circle.");
                 }
@@ -34,6 +33,7 @@ namespace part10
 
             Circle circ2 = (Circle)circ1;
             Console.WriteLine($"Area of {circ2.Name} is {circ2.Area()}");
+
 
              
 
