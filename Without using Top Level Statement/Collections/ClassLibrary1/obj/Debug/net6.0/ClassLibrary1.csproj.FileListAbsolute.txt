@@ -1,0 +1,12 @@
+/home/lego44/Code/dotNetMain/ClassLibrary1/bin/Debug/net6.0/ClassLibrary1.deps.json
+/home/lego44/Code/dotNetMain/ClassLibrary1/bin/Debug/net6.0/ClassLibrary1.dll
+/home/lego44/Code/dotNetMain/ClassLibrary1/bin/Debug/net6.0/ref/ClassLibrary1.dll
+/home/lego44/Code/dotNetMain/ClassLibrary1/bin/Debug/net6.0/ClassLibrary1.pdb
+/home/lego44/Code/dotNetMain/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.csproj.AssemblyReference.cache
+/home/lego44/Code/dotNetMain/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/dotNetMain/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.AssemblyInfoInputs.cache
+/home/lego44/Code/dotNetMain/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.AssemblyInfo.cs
+/home/lego44/Code/dotNetMain/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/home/lego44/Code/dotNetMain/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.dll
+/home/lego44/Code/dotNetMain/ClassLibrary1/obj/Debug/net6.0/ref/ClassLibrary1.dll
+/home/lego44/Code/dotNetMain/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.pdb
