@@ -23,7 +23,7 @@ namespace Calc
         }
         public double GetVolume()
         {
-            return -1; // Volume for Rectangle does not exist
+            return 0; // Volume for Rectangle does not exist
         }
 
     }
@@ -39,7 +39,7 @@ namespace Calc
         }
         public double GetVolume()
         {
-            return -1; // Volume for Triangle does not exist
+            return 0; // Volume for Triangle does not exist
         }
 
     }
