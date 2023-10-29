@@ -1,0 +1,15 @@
+/home/lego44/Code/dotNetMain/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/home/lego44/Code/dotNetMain/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/dotNetMain/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/home/lego44/Code/dotNetMain/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/home/lego44/Code/dotNetMain/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/home/lego44/Code/dotNetMain/Task/bin/Debug/net6.0/Task
+/home/lego44/Code/dotNetMain/Task/bin/Debug/net6.0/Task.deps.json
+/home/lego44/Code/dotNetMain/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/home/lego44/Code/dotNetMain/Task/bin/Debug/net6.0/Task.dll
+/home/lego44/Code/dotNetMain/Task/bin/Debug/net6.0/ref/Task.dll
+/home/lego44/Code/dotNetMain/Task/bin/Debug/net6.0/Task.pdb
+/home/lego44/Code/dotNetMain/Task/obj/Debug/net6.0/Task.dll
+/home/lego44/Code/dotNetMain/Task/obj/Debug/net6.0/ref/Task.dll
+/home/lego44/Code/dotNetMain/Task/obj/Debug/net6.0/Task.pdb
+/home/lego44/Code/dotNetMain/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
