@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B/yHF03wL+hgSLLzkDtwY3yQHTmTv8JcPRlvon2eC3TfWS3QcQ9CqYnD9POSsZMnGVX8+BVf+++K6bykh2HgLA==",
+  "success": true,
+  "projectFilePath": "/home/lego44/Code/Design Patterns/Strategy/Strategy.csproj",
+  "expectedPackageFiles": [
+    "/home/lego44/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.24/microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

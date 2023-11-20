@@ -1,0 +1,15 @@
+/home/lego44/Code/Design Patterns/Weater-O-Rama/bin/Debug/net6.0/Weater-O-Rama
+/home/lego44/Code/Design Patterns/Weater-O-Rama/bin/Debug/net6.0/Weater-O-Rama.deps.json
+/home/lego44/Code/Design Patterns/Weater-O-Rama/bin/Debug/net6.0/Weater-O-Rama.runtimeconfig.json
+/home/lego44/Code/Design Patterns/Weater-O-Rama/bin/Debug/net6.0/Weater-O-Rama.dll
+/home/lego44/Code/Design Patterns/Weater-O-Rama/bin/Debug/net6.0/ref/Weater-O-Rama.dll
+/home/lego44/Code/Design Patterns/Weater-O-Rama/bin/Debug/net6.0/Weater-O-Rama.pdb
+/home/lego44/Code/Design Patterns/Weater-O-Rama/obj/Debug/net6.0/Weater-O-Rama.csproj.AssemblyReference.cache
+/home/lego44/Code/Design Patterns/Weater-O-Rama/obj/Debug/net6.0/Weater-O-Rama.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/Design Patterns/Weater-O-Rama/obj/Debug/net6.0/Weater-O-Rama.AssemblyInfoInputs.cache
+/home/lego44/Code/Design Patterns/Weater-O-Rama/obj/Debug/net6.0/Weater-O-Rama.AssemblyInfo.cs
+/home/lego44/Code/Design Patterns/Weater-O-Rama/obj/Debug/net6.0/Weater-O-Rama.csproj.CoreCompileInputs.cache
+/home/lego44/Code/Design Patterns/Weater-O-Rama/obj/Debug/net6.0/Weater-O-Rama.dll
+/home/lego44/Code/Design Patterns/Weater-O-Rama/obj/Debug/net6.0/ref/Weater-O-Rama.dll
+/home/lego44/Code/Design Patterns/Weater-O-Rama/obj/Debug/net6.0/Weater-O-Rama.pdb
+/home/lego44/Code/Design Patterns/Weater-O-Rama/obj/Debug/net6.0/Weater-O-Rama.genruntimeconfig.cache

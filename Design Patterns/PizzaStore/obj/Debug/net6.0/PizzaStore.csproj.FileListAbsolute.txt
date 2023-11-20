@@ -1,0 +1,15 @@
+/home/lego44/Code/Design Patterns/PizzaStore/bin/Debug/net6.0/PizzaStore
+/home/lego44/Code/Design Patterns/PizzaStore/bin/Debug/net6.0/PizzaStore.deps.json
+/home/lego44/Code/Design Patterns/PizzaStore/bin/Debug/net6.0/PizzaStore.runtimeconfig.json
+/home/lego44/Code/Design Patterns/PizzaStore/bin/Debug/net6.0/PizzaStore.dll
+/home/lego44/Code/Design Patterns/PizzaStore/bin/Debug/net6.0/ref/PizzaStore.dll
+/home/lego44/Code/Design Patterns/PizzaStore/bin/Debug/net6.0/PizzaStore.pdb
+/home/lego44/Code/Design Patterns/PizzaStore/obj/Debug/net6.0/PizzaStore.csproj.AssemblyReference.cache
+/home/lego44/Code/Design Patterns/PizzaStore/obj/Debug/net6.0/PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/Design Patterns/PizzaStore/obj/Debug/net6.0/PizzaStore.AssemblyInfoInputs.cache
+/home/lego44/Code/Design Patterns/PizzaStore/obj/Debug/net6.0/PizzaStore.AssemblyInfo.cs
+/home/lego44/Code/Design Patterns/PizzaStore/obj/Debug/net6.0/PizzaStore.csproj.CoreCompileInputs.cache
+/home/lego44/Code/Design Patterns/PizzaStore/obj/Debug/net6.0/PizzaStore.dll
+/home/lego44/Code/Design Patterns/PizzaStore/obj/Debug/net6.0/ref/PizzaStore.dll
+/home/lego44/Code/Design Patterns/PizzaStore/obj/Debug/net6.0/PizzaStore.pdb
+/home/lego44/Code/Design Patterns/PizzaStore/obj/Debug/net6.0/PizzaStore.genruntimeconfig.cache

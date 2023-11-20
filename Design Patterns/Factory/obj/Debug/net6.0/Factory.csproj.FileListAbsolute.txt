@@ -1,0 +1,15 @@
+/home/lego44/Code/Design Patterns/Factory/obj/Debug/net6.0/Factory.csproj.AssemblyReference.cache
+/home/lego44/Code/Design Patterns/Factory/obj/Debug/net6.0/Factory.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/Design Patterns/Factory/obj/Debug/net6.0/Factory.AssemblyInfoInputs.cache
+/home/lego44/Code/Design Patterns/Factory/obj/Debug/net6.0/Factory.AssemblyInfo.cs
+/home/lego44/Code/Design Patterns/Factory/obj/Debug/net6.0/Factory.csproj.CoreCompileInputs.cache
+/home/lego44/Code/Design Patterns/Factory/bin/Debug/net6.0/Factory
+/home/lego44/Code/Design Patterns/Factory/bin/Debug/net6.0/Factory.deps.json
+/home/lego44/Code/Design Patterns/Factory/bin/Debug/net6.0/Factory.runtimeconfig.json
+/home/lego44/Code/Design Patterns/Factory/bin/Debug/net6.0/Factory.dll
+/home/lego44/Code/Design Patterns/Factory/bin/Debug/net6.0/ref/Factory.dll
+/home/lego44/Code/Design Patterns/Factory/bin/Debug/net6.0/Factory.pdb
+/home/lego44/Code/Design Patterns/Factory/obj/Debug/net6.0/Factory.dll
+/home/lego44/Code/Design Patterns/Factory/obj/Debug/net6.0/ref/Factory.dll
+/home/lego44/Code/Design Patterns/Factory/obj/Debug/net6.0/Factory.pdb
+/home/lego44/Code/Design Patterns/Factory/obj/Debug/net6.0/Factory.genruntimeconfig.cache

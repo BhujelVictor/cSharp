@@ -1,0 +1,15 @@
+/home/lego44/Code/Design Patterns/Strategy/obj/Debug/net6.0/Strategy.csproj.AssemblyReference.cache
+/home/lego44/Code/Design Patterns/Strategy/obj/Debug/net6.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/Design Patterns/Strategy/obj/Debug/net6.0/Strategy.AssemblyInfoInputs.cache
+/home/lego44/Code/Design Patterns/Strategy/obj/Debug/net6.0/Strategy.AssemblyInfo.cs
+/home/lego44/Code/Design Patterns/Strategy/obj/Debug/net6.0/Strategy.csproj.CoreCompileInputs.cache
+/home/lego44/Code/Design Patterns/Strategy/bin/Debug/net6.0/Strategy
+/home/lego44/Code/Design Patterns/Strategy/bin/Debug/net6.0/Strategy.deps.json
+/home/lego44/Code/Design Patterns/Strategy/bin/Debug/net6.0/Strategy.runtimeconfig.json
+/home/lego44/Code/Design Patterns/Strategy/bin/Debug/net6.0/Strategy.dll
+/home/lego44/Code/Design Patterns/Strategy/bin/Debug/net6.0/ref/Strategy.dll
+/home/lego44/Code/Design Patterns/Strategy/bin/Debug/net6.0/Strategy.pdb
+/home/lego44/Code/Design Patterns/Strategy/obj/Debug/net6.0/Strategy.dll
+/home/lego44/Code/Design Patterns/Strategy/obj/Debug/net6.0/ref/Strategy.dll
+/home/lego44/Code/Design Patterns/Strategy/obj/Debug/net6.0/Strategy.pdb
+/home/lego44/Code/Design Patterns/Strategy/obj/Debug/net6.0/Strategy.genruntimeconfig.cache
