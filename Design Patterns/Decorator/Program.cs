@@ -4,9 +4,9 @@ namespace DecoratorPattern
 {
     public abstract class Beverage
     {
-        protected string description = "Unknown Beverage";
+        public string description = "Unknown Beverage";
 
-        public string GetDescription()
+        public virtual string GetDescription()
         {
             return description;
         }
@@ -16,7 +16,7 @@ namespace DecoratorPattern
 
     public abstract class CondimentDecorator : Beverage
     {
-        public abstract string GetDescription();
+        public override abstract string GetDescription();
     }
 
     public class Espresso : Beverage
@@ -85,6 +85,23 @@ namespace DecoratorPattern
             return beverage.Cost() + .20;
         }
     }
+    public class Whip : CondimentDecorator
+    {
+        Beverage beverage;
+        public Whip(Beverage beverage)
+        {
+            this.beverage = beverage;
+        }
+
+        public override string GetDescription()
+        {
+            return beverage.GetDescription() + ", Whip";
+        }
+        public override double Cost()
+        {
+            return beverage.Cost() + .15;
+        }
+    }
 
     public class StarBuzzCafe
     {
@@ -96,7 +113,9 @@ namespace DecoratorPattern
             Beverage beverage2 = new DarkRoast();
             beverage2 = new Mocha(beverage2);
             beverage2 = new Mocha(beverage2);
+            beverage2 = new Whip(beverage2);
             Console.WriteLine($"{beverage2.GetDescription()} ${beverage2.Cost()}");
+
 
         }
     }
