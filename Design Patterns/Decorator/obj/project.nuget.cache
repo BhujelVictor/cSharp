@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iCjSAuYhXWTlrMX+EAEUuByJaAPreVR095umdnC481PIhDHZ1EYrV6vPG3BAeU1r+t9OByHjdVMfJkycYadjyg==",
+  "success": true,
+  "projectFilePath": "/home/lego44/Code/Design Patterns/Decorator/Decorator.csproj",
+  "expectedPackageFiles": [
+    "/home/lego44/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.24/microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

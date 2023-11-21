@@ -1,0 +1,15 @@
+/home/lego44/Code/Design Patterns/Decorator/bin/Debug/net6.0/Decorator
+/home/lego44/Code/Design Patterns/Decorator/bin/Debug/net6.0/Decorator.deps.json
+/home/lego44/Code/Design Patterns/Decorator/bin/Debug/net6.0/Decorator.runtimeconfig.json
+/home/lego44/Code/Design Patterns/Decorator/bin/Debug/net6.0/Decorator.dll
+/home/lego44/Code/Design Patterns/Decorator/bin/Debug/net6.0/ref/Decorator.dll
+/home/lego44/Code/Design Patterns/Decorator/bin/Debug/net6.0/Decorator.pdb
+/home/lego44/Code/Design Patterns/Decorator/obj/Debug/net6.0/Decorator.csproj.AssemblyReference.cache
+/home/lego44/Code/Design Patterns/Decorator/obj/Debug/net6.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/Design Patterns/Decorator/obj/Debug/net6.0/Decorator.AssemblyInfoInputs.cache
+/home/lego44/Code/Design Patterns/Decorator/obj/Debug/net6.0/Decorator.AssemblyInfo.cs
+/home/lego44/Code/Design Patterns/Decorator/obj/Debug/net6.0/Decorator.csproj.CoreCompileInputs.cache
+/home/lego44/Code/Design Patterns/Decorator/obj/Debug/net6.0/Decorator.dll
+/home/lego44/Code/Design Patterns/Decorator/obj/Debug/net6.0/ref/Decorator.dll
+/home/lego44/Code/Design Patterns/Decorator/obj/Debug/net6.0/Decorator.pdb
+/home/lego44/Code/Design Patterns/Decorator/obj/Debug/net6.0/Decorator.genruntimeconfig.cache
