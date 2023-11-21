@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kmSQYNT3k3OHvO5n0na14qS7b1xxV8t22nPdJnoAwZHfUOWXFmnySqKjDLmoJjbolsD3K3Qm0D/LfEwHVOuJqg==",
+  "success": true,
+  "projectFilePath": "/home/lego44/Code/Design Patterns/Singleton/Singleton.csproj",
+  "expectedPackageFiles": [
+    "/home/lego44/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.24/microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

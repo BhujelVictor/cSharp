@@ -1,0 +1,15 @@
+/home/lego44/Code/Design Patterns/Singleton/bin/Debug/net6.0/Singleton
+/home/lego44/Code/Design Patterns/Singleton/bin/Debug/net6.0/Singleton.deps.json
+/home/lego44/Code/Design Patterns/Singleton/bin/Debug/net6.0/Singleton.runtimeconfig.json
+/home/lego44/Code/Design Patterns/Singleton/bin/Debug/net6.0/Singleton.dll
+/home/lego44/Code/Design Patterns/Singleton/bin/Debug/net6.0/ref/Singleton.dll
+/home/lego44/Code/Design Patterns/Singleton/bin/Debug/net6.0/Singleton.pdb
+/home/lego44/Code/Design Patterns/Singleton/obj/Debug/net6.0/Singleton.csproj.AssemblyReference.cache
+/home/lego44/Code/Design Patterns/Singleton/obj/Debug/net6.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/Design Patterns/Singleton/obj/Debug/net6.0/Singleton.AssemblyInfoInputs.cache
+/home/lego44/Code/Design Patterns/Singleton/obj/Debug/net6.0/Singleton.AssemblyInfo.cs
+/home/lego44/Code/Design Patterns/Singleton/obj/Debug/net6.0/Singleton.csproj.CoreCompileInputs.cache
+/home/lego44/Code/Design Patterns/Singleton/obj/Debug/net6.0/Singleton.dll
+/home/lego44/Code/Design Patterns/Singleton/obj/Debug/net6.0/ref/Singleton.dll
+/home/lego44/Code/Design Patterns/Singleton/obj/Debug/net6.0/Singleton.pdb
+/home/lego44/Code/Design Patterns/Singleton/obj/Debug/net6.0/Singleton.genruntimeconfig.cache
