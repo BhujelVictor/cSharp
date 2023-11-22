@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0N33GvYXTdkl1r5OjUC9UHi3RLxcKxbozeV2FTDERw51rGG7P+EYbWm2taGpko6B50O/tQRZfO80XYUbejT3Sg==",
+  "success": true,
+  "projectFilePath": "/home/lego44/Code/Design Patterns/Facade/Facade.csproj",
+  "expectedPackageFiles": [
+    "/home/lego44/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

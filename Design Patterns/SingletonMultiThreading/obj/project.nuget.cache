@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q+z7zRllB7ubRcXpyQKbz3Uag4gZCVyD0MqqcgBV94QEukYfEn/1hSyPcVO3QuLHIBVDx9B/c5g83dTcWvy0gA==",
+  "success": true,
+  "projectFilePath": "/home/lego44/Code/Design Patterns/SingletonMultiThreading/SingletonMultiThreading.csproj",
+  "expectedPackageFiles": [
+    "/home/lego44/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/lego44/Code/Design Patterns/SingletonMultiThreading/bin/Debug/net6.0/SingletonMultiThreading
+/home/lego44/Code/Design Patterns/SingletonMultiThreading/bin/Debug/net6.0/SingletonMultiThreading.deps.json
+/home/lego44/Code/Design Patterns/SingletonMultiThreading/bin/Debug/net6.0/SingletonMultiThreading.runtimeconfig.json
+/home/lego44/Code/Design Patterns/SingletonMultiThreading/bin/Debug/net6.0/SingletonMultiThreading.dll
+/home/lego44/Code/Design Patterns/SingletonMultiThreading/bin/Debug/net6.0/ref/SingletonMultiThreading.dll
+/home/lego44/Code/Design Patterns/SingletonMultiThreading/bin/Debug/net6.0/SingletonMultiThreading.pdb
+/home/lego44/Code/Design Patterns/SingletonMultiThreading/obj/Debug/net6.0/SingletonMultiThreading.csproj.AssemblyReference.cache
+/home/lego44/Code/Design Patterns/SingletonMultiThreading/obj/Debug/net6.0/SingletonMultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+/home/lego44/Code/Design Patterns/SingletonMultiThreading/obj/Debug/net6.0/SingletonMultiThreading.AssemblyInfoInputs.cache
+/home/lego44/Code/Design Patterns/SingletonMultiThreading/obj/Debug/net6.0/SingletonMultiThreading.AssemblyInfo.cs
+/home/lego44/Code/Design Patterns/SingletonMultiThreading/obj/Debug/net6.0/SingletonMultiThreading.csproj.CoreCompileInputs.cache
+/home/lego44/Code/Design Patterns/SingletonMultiThreading/obj/Debug/net6.0/SingletonMultiThreading.dll
+/home/lego44/Code/Design Patterns/SingletonMultiThreading/obj/Debug/net6.0/ref/SingletonMultiThreading.dll
+/home/lego44/Code/Design Patterns/SingletonMultiThreading/obj/Debug/net6.0/SingletonMultiThreading.pdb
+/home/lego44/Code/Design Patterns/SingletonMultiThreading/obj/Debug/net6.0/SingletonMultiThreading.genruntimeconfig.cache
