@@ -50,7 +50,6 @@ namespace FacadePattern
         {
             public static void Main(string[] args)
             {
-                // instantiate components here
                 var amp = new Amplifier("Over The Horizon Amplifier");
                 var tuner = new Tuner("OverPowered AM/Fm Tuner", amp);
                 var dvd = new DvdPlayer("Straight to Mars DvdPlayer", amp);
